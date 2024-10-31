@@ -1,0 +1,641 @@
+@import url(two.css);
+@import url(three.css);
+@font-face {
+    font-family: 'FiraCode';
+    src: url(font/FiraCode-Regular.ttf);
+}
+body {
+    font-family: 'FiraCode';
+}
+main {
+    margin: auto;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    width: 1280px;
+    background: black;
+    background-image: url(imgs/fon1.svg);
+}
+.letterA {
+    margin-top: 0px;
+    margin-left: -500px;
+    z-index: 4;
+}
+.ellipse1 {
+    transform: rotate(-16deg);
+    margin-top: -500px;
+    z-index: 4;
+    
+}
+.shadow {
+    margin-top: -600px;
+    z-index: 3;
+    margin-right: -200px;
+}
+.ellipse2 {
+    margin-top: -350px;
+    transform: rotate(-16deg);
+    z-index: 5;
+}
+.ellipse3 {
+    margin-top: -350px;
+    transform: rotate(-16deg);
+    z-index: 5;
+}
+.ellipse4 {
+    margin-top: -350px;
+    transform: rotate(-16deg);
+    z-index: 5;
+}
+.ellipse5 {
+    margin-top: -160px;
+    transform: rotate(-16deg);
+    z-index: 1;
+}
+.cosmolet {
+    width: 581px;
+    transform: rotate(-14deg);
+    margin-top: -380px;
+    margin-right: -700px;
+    z-index: 2;
+
+}
+.vselen  {
+    width: 1750px;
+    margin-right: -200px;
+    margin-top: 600px;
+}
+.cometa {
+    width: 300px;
+    margin-top: -1100px;
+    transform: rotate(-90deg);
+    margin-left: -750px;
+}
+.div {
+    margin-top: 300px;
+    margin-left: -500px;
+    width: 250px;
+    height: 1;
+    color: white;
+}
+.line1 {
+    width: 250px;
+    height: 1px;
+    margin-right: -1300px;
+    z-index: 6;
+    margin-top: 420px;
+}
+.line2 {
+    margin-top: -40px;
+}
+.line1_1 {
+    margin-top: -40px;
+    margin-right: -1100px;
+    color: white;
+}
+
+.line5 {
+    margin-right: -1120px;
+    color: white;
+    margin-top: 7px;
+}
+.text1 {
+    color: white;
+    margin-top: -360px;
+    margin-right: -550px;
+}
+.text2hist {
+    color: white;
+    margin-top: 160px;
+    margin-left: -380px;
+}
+.line5_5 {
+    margin-right: -1180px;
+    margin-top: -30px;
+}
+.line4 {
+    color: white;
+    margin-top: -1600px;
+    margin-right: -1120px;
+}
+.text3hist {
+    color: white;
+    margin-top: 190px;
+    margin-right: -380px;
+}
+.text3_3hist {
+    color: white;
+    margin-top: 40px;
+    margin-right: 580px;
+}
+.text3_4hist {
+    color: white;
+    margin-top: 40px;
+    margin-right: -580px;
+}
+.text4_1 {
+    color: white;
+    margin-top: 195px;
+    margin-right: 350px;
+}
+.text4_2 {
+    color: white;
+    margin-top: 45px;
+    margin-right: 570px;
+}
+.comet1 {
+    margin-top: -1000px;
+    margin-right: -1000px;
+}
+.comet2 {
+    margin-top: -150px;
+    margin-left: -800px;
+}
+.comet3 {
+    margin-top: -80px;
+    margin-left: 700px;
+}
+.comet4 {
+    width: 450px;
+    margin-top: 0px;
+    margin-left: -600px;
+    transform: rotate(-10deg);
+}
+.cosmolet1 {
+    margin-top: -500px;
+}
+.carfresher {
+    margin-right: -800px;
+    transform: rotate(20deg);
+    margin-top: -1660px;
+}
+.km2 {
+    color: white;
+    margin-top: 30px;
+    margin-right: -1080px;
+}
+.km2_1 {
+    margin-top: -7px;
+    margin-right: -1150px;
+}
+.km2_2 {
+    color: white;
+    margin-right: -1110px;
+    margin-top: -5px;
+}
+.key1 {
+    margin-top: -90px;
+    margin-left: -800px;
+    transform: rotate(20deg);
+}
+.number1 {
+    color: white;
+    transform: rotate(24deg);
+    margin-left: -676px;
+    margin-top: -83px;
+}
+.provoda {
+    margin-right: -750px;
+    margin-top: -125px;
+}
+.monit {
+    margin-top: -785px;
+    margin-left: -450px;
+}
+.warning {
+    font-weight: bold;
+    font-size: 90pt;
+    color: white;
+    transform: rotate(-11deg);
+    margin-left: -440px;
+    margin-top: -305px;
+}
+.logbook {
+    width: 440px;
+    height: 360px;
+    border: 2px white solid;
+    border-radius: 30px;
+    display: flex;    
+    justify-content: center;
+    padding: 10px;
+    background-color: black;
+    transform: rotate(12deg);
+    margin-left: 635px;
+    margin-top: -40px;
+}
+.lb2 {
+    width: 420px;
+    height: 355px;
+    border: 1px white solid;
+    border-radius: 30px;
+}
+.lbtext {
+    font-size: 22pt;
+    color: white;
+    justify-content: center;
+    padding: 33px;
+}
+.lbtextblack {
+    font-weight: 100;
+    font-size: 22pt;
+    color: rgb(0, 0, 0);
+}
+.lbtdata {
+    font-weight: 50;
+}
+.lbt1 {
+    font-weight: 100;
+}
+.lbt2 {
+    font-weight: 300;
+}
+.lbt3 {
+    font-weight: 500;
+}
+.lbt4 {
+    font-weight: 700;
+}
+.lbt5 {
+    font-weight: 900;
+}
+.key2 {
+    width: 210px;
+    margin-right: -800px;
+    margin-top: 30px;
+    transform: rotate(7deg);
+
+}
+.key2text {
+    transform: rotate(14deg);
+    margin-right: -920px;
+    margin-top: -86px;
+    color: white;
+}
+.km3_1 {
+    color: white;
+    margin-top: 100px;
+    margin-right: -1020px;
+}
+.km3_2 {
+    margin-top: -7px;
+    margin-right: -1090px;
+}
+.km3_3 {
+    color: white;
+    margin-right: -1080px;
+    margin-top: -5px;
+}
+.comp {
+    width: 975px;
+    transform: rotate(-7deg);
+    margin-left: -180px;
+    margin-top: -500px;
+}
+.cosmolet2 {
+    margin-top: 200px;
+    margin-left: -300px;
+    width: 1000px;
+}
+.shadow2 {
+    width: 970px;
+    transform: rotate(35deg);
+    margin-left: 90px;
+    margin-top: -800px;
+    z-index: 7;
+}
+.shadow3 {
+    width: 450px;
+    opacity: 40%;
+    transform: rotate(35deg);
+    margin-left: 90px;
+    margin-top: -250px;
+    z-index: 8;
+}
+.bam {
+    width: 678px;
+    margin-left: 240px;
+    margin-top: -880px;
+    z-index: 8;
+}
+.comet5 {
+    width: 290px;
+    transform: rotate(94deg);
+    margin-right: -490px;
+    margin-top: -670px;
+    z-index: 9;
+}
+.emer_box{
+    width: 495px;
+    margin-left: -600px;
+    margin-top: 400px;
+    z-index: 10;
+}
+.emer_box_text {
+    font-size: 12t;
+    color: white;
+    margin-left: -710px;
+    margin-top: -215px;
+    transform: rotate(-16deg);
+    z-index: 11;
+}
+.shadow4 {
+    width: 400px;
+    margin-top: -200px;
+    margin-left: -550px;
+    opacity: 50%;
+    z-index: 12;
+}
+.sf_1 {
+    width: 350px;
+    margin-left: -710px;
+    margin-top: 120px;
+    transform: rotate(-60deg);
+    z-index: 13;
+}
+.sf_1_text {
+    margin-left: -720px;
+    transform: rotate(-60deg);
+    color: white;
+    font-weight: 900;
+    font-size: 18pt;
+    margin-top: -180px;
+    z-index: 14;
+}
+.sf_2 {
+    width: 170px;
+    margin-top: -250px;
+    margin-left: -230px;
+    transform: rotate(-20deg);
+    z-index: 15;
+}
+.sf_3 {
+    width: 220px;
+    margin-top: -300px;
+    margin-left: -170px;
+    transform: rotate(20deg);
+    z-index: 15;
+}
+.instr {
+    width: 1000px;
+    transform: rotate(-10)deg;
+    margin-right: -550px;
+    margin-top: -500px;
+    z-index: 16;
+}
+.pappers {
+    transform: rotate(40deg);
+    width: 440px;
+    margin-top: -120px;
+    z-index: 17;
+    margin-left: -180px;
+}
+.shadow5 {
+    margin-left: 280px;
+    margin-top: -400px;
+    opacity: 40%;
+    z-index: 17;
+    margin-left: -100px;
+}
+.banca {
+    width: 300px;
+    transform: rotate(60deg);
+    margin-right: -300px;
+    margin-top: -80px;
+}
+.bio {
+    width: 200px;
+    margin-top: -470px;
+    margin-left: -700px;
+}
+.car {
+    width: 280px;
+    transform: rotate(20deg);
+    margin-top: -400px;
+    margin-right: -700px;
+}
+.km4_1 {
+    color: white;
+    margin-top: -1130px;
+    margin-right: -1080px;
+}
+.km4_2 {
+    margin-top: -7px;
+    margin-right: -1150px;
+}
+.km4_3 {
+    color: white;
+    margin-right: -1065px;
+    margin-top: -5px;
+}
+.sputnic {
+    transform: rotate(12deg);
+    width: 1300px;
+    margin-left: -300px;
+    margin-top: 1400px;
+}
+.km5_1 {
+    color: white;
+    margin-top: -230px;
+    margin-right: -1080px;
+}
+.km5_2 {
+    margin-top: -7px;
+    margin-right: -1150px;
+}
+.km5_3 {
+    color: white;
+    margin-right: -1090px;
+    margin-top: -5px;
+}
+.obvodka1 {
+    width: 210px;
+    height: 200px;
+    padding: 15pt;
+    background-color: black;
+    font-size: 15pt;
+    color: white;
+    border: 2px white solid;
+    border-radius: 10px;
+    margin-top: -25px;
+    margin-left: 500px;
+}
+.portal1 {
+    margin-top: -150px;
+    margin-left: -340px;
+}
+.portal2 {
+    margin-top: -230px;
+    margin-left: 370px;
+}
+.obvodka2 {
+    width: 210px;
+    height: 125px;
+    padding: 15pt;
+    background-color: black;
+    font-size: 15pt;
+    color: white;
+    border: 2px white solid;
+    border-radius: 10px;
+    margin-top: -800px;
+    margin-left: -500px;
+}
+
+.portal3 {
+    margin-top: 600px;
+    margin-left: -340px;
+}
+
+.obvodka3 {
+    width: 210px;
+    height: 150px;
+    padding: 15pt;
+    background-color: black;
+    font-size: 15pt;
+    color: white;
+    border: 2px white solid;
+    border-radius: 10px;
+    margin-top: -710px;
+    margin-left: 500px;
+}
+
+.km6_1 {
+    color: white;
+    margin-top: 590px;
+    margin-right: -1080px;
+}
+.km6_2 {
+    margin-top: -7px;
+    margin-right: -1150px;
+}
+.km6_3 {
+    color: white;
+    margin-right: -1110px;
+    margin-top: -5px;
+}
+.kolco1 {
+    transform: rotate(-20deg);
+    margin-top: 200px;
+    margin-left: -400px;
+}
+.rocet1 {
+    width: 1565px;
+}
+.nasa {
+    font-size: 24pt;
+    color: white;
+    margin-left: 310px;
+    margin-top: -400px;
+
+}
+.rocet {
+    transform: rotate(35deg);
+    margin-left: 1000px;
+    margin-top: -600px;
+}
+.letter1 {
+    font-size: 600pt;
+    font-weight: 900;
+    margin-left: -600px;
+    transform: rotate(-13deg);
+    color: white;
+    margin-top: -350px;
+    z-index: 20;
+}
+.bubble1 {
+    width: 390px;
+    margin-left: 160px;
+    margin-top: -450px;
+    transform: rotate(-20deg);
+    z-index: 19;
+}
+.letter1per {
+    color: white;
+    font-size: 16pt;
+    margin-right: -380px;
+    margin-top: -180px;
+    z-index: 22;
+}
+
+.letter2 {
+    font-size: 550pt;
+    font-weight: 100;
+    margin-left: 600px;
+    transform: rotate(13deg);
+    color: white;
+    margin-top: 550px;
+    z-index: 20;
+}
+.bubble2 {
+    width: 750px;
+    margin-top: -800px;
+    margin-right: -300px;
+
+}
+.letter2per {
+    margin-top: -200px;
+    color: white;
+    margin-left: -330px;
+    transform: rotate(7deg);
+}
+.letter3 {
+    font-size: 600pt;
+    font-weight: 100;
+    margin-left: -600px;
+    transform: rotate(-13deg);
+    color: white;
+    margin-top: 450px;
+    z-index: 20;
+}
+.bubble3 {
+    width: 770px;
+    margin-top: -800px;
+    margin-right: -180px;
+    z-index: 21;
+}
+.kolco2{
+    transform: rotate(7deg);
+    margin-top: -170px;
+    margin-left: 400px;
+    z-index: 20;
+}
+.massage {
+    width: 280px;
+    height: 150px;
+    padding: 15pt;
+    background-color: black;
+    font-size: 15pt;
+    color: white;
+    border: 2px white solid;
+
+    border-radius: 10px 10px 0px 10px;
+    margin-top: 150px;
+    margin-left: -150px;
+}
+.bio2 {
+    width: 280px;
+    transform: rotate(45deg);
+    margin-right: -300px;
+    margin-top: -40px;
+}
+.planeta {
+    width: 1407px;
+    margin-top: -150px;
+}
+.flag {
+    width: 603px;
+    margin-top: -700px;
+    margin-left: -470px;
+    z-index: 23;
+}
+.letters {
+    width: 1918px;
+    margin-top: -390px;
+
+}
+
+.border5 {
+    margin-top: -14355px;
+    z-index: 25;
+}

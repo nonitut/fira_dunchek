@@ -1,0 +1,1441 @@
+.keyboard1 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 120px;
+    width: 1100px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bat1 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    /* margin-top: 0px;
+    margin-left: -7px; */
+    border-radius: 10px;
+}
+
+.bat3 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat8 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat9 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat10 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat11 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat12 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat13 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat14 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat15 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat15_1 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat16 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat17 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.keyboard2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+    width: 1040px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.bat2_1 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_2 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_3 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_4 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_5 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_6 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_7 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_8 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_9 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_10 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_11 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_12 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_13 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_14 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_15 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_16 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat2_17 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.keyboard3 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+    width: 990px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.bat3_1 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_2 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_3 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_4 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_5 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_6 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_7 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_8 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_9 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_10 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_11 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_12 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_13 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_14 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_15 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat3_16 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+
+.keyboard4 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+    width: 1040px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.bat4_1 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_2 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_3 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_4 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_5 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_6 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_7 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_8 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_9 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_10 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_11 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_12 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_13 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_14 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_15 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat4_16 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.keyboard5 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+    width: 990px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.bat5_1 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_2 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_3 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_4 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_5 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_6 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_7 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_8 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_9 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_10 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_11 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_12 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_13 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_14 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_15 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat5_16 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.keyboard6 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+    width: 930px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.bat6_1 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_2 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_3 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_4 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_5 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_6 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_7 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_8 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_9 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_10 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_11 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_12 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_13 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_14 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_15 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat6_16 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.keyboard7 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+    width: 990px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.bat7_1 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_2 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_3 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_4 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_5 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_6 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_7 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_8 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_9 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_10 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_11 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_12 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_13 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_14 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_15 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
+.bat7_16 {
+    width: 48px;
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+}
